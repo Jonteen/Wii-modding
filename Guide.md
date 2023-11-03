@@ -17,6 +17,9 @@ Enter the MAC address and the region letter.
 Cut either the blue or red wire (it doesn't matter which).
 Place all the content on the root of the SD card.
 
+Download my SD CARD.zip 
+Place everything inside on the root SD card
+
 Insert the SD Card:
 Insert the SD card into the Wii console's SD card slot.
 
